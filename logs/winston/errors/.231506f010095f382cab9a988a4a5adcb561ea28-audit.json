@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Personal-project\\templates\\Express-Postgres-Prisma-template-with-eslint-prettier-errorhandling-setup\\logs\\winston\\errors\\.231506f010095f382cab9a988a4a5adcb561ea28-audit.json",
+    "files": [
+        {
+            "date": 1694923934117,
+            "name": "F:\\Personal-project\\templates\\Express-Postgres-Prisma-template-with-eslint-prettier-errorhandling-setup\\logs\\winston\\errors\\phu-2023-17-09-06-error.log",
+            "hash": "0ae98096691ab3a55f67497cdc4ce5e17ccf478e85c37fea012c41ac80f3acc5"
+        }
+    ],
+    "hashType": "sha256"
+}
